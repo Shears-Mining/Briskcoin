@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Briskcoin Core Security Policy
+    url: https://github.com/briskcoin/briskcoin/blob/master/SECURITY.md
+    about: View security policy
+  - name: Briskcoin Core Developers
+    url: https://briskcoincore.org
+    about: Briskcoin Core homepage
